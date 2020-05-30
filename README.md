@@ -1,2 +1,11 @@
 # Mysql_to_excel
- exporting mysql data into excel sheet
+    Exporting mysql data into excel sheet
+    
+    INPUTS:
+        database name
+        table name
+    
+    OUTPUT:
+        exporting all data from database to excel_sheet
+    
+    

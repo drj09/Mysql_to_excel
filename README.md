@@ -6,6 +6,5 @@
         table name
     
     OUTPUT:
-        exporting all data from database to excel_sheet
-    
+        exporting all data from database to excel_sheet with same name as table name
     
